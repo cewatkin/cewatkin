@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cewatkin
 - 👀 I’m interested in computational fluid dynamics, specifically geophysical instabilities
 - 🌱 I’m currently learning almost everything
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me watkince@nv.doe.gov
 
 <!---
